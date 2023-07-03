@@ -2,7 +2,7 @@
 
 ---
 
-### Ejercicios 1
+### [Ejercicios 1](https://github.com/edavot/MBEP-Modulo-3-Practica-1/tree/main/code/Ejercicios-1)
 
 ---
 
@@ -43,7 +43,7 @@ Hola Alfredo Altamirano, naciste en 1986
 
 ---
 
-### Ejercicios 2
+### [Ejercicios 2](##https://github.com/edavot/MBEP-Modulo-3-Practica-1/tree/main/code/Ejercicios-2)
 
 ---
 
@@ -72,7 +72,7 @@ Hola Alfredo Altamirano, naciste en 1986
 
 ---
 
-### Ejercicios 3 
+### [Ejercicios 3](https://github.com/edavot/MBEP-Modulo-3-Practica-1/tree/main/code/Ejercicios-3)
 
 ---
 
@@ -80,7 +80,7 @@ Hola Alfredo Altamirano, naciste en 1986
 2. Escribe una función que permita multiplicar varios números
 3. Escribe una función para verificar que un número se encuentra en un rango de números determinado. El resultado de esa función debe ser booleano
 4. Escribe una función que permita identificar si un número dado es primo o no.
-5. Escribe un programa que pueda identificar si una palabra o frase es un [palíndromo](#https://es.wikipedia.org/wiki/Pal%C3%ADndromo).
+5. Escribe un programa que pueda identificar si una palabra o frase es un [palíndromo](https://es.wikipedia.org/wiki/Pal%C3%ADndromo).
 6. Escribe una función que genere una lista con los números de la serie de fibonacci. La función debe recibir la cantidad de números a generar
 7. Escribe un programa que emule el funcionamiento de una calculadora simple. Este es un posible ejemplo de la ejecución del programa en una terminal:
 
