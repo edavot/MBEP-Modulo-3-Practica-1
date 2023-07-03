@@ -43,7 +43,7 @@ Hola Alfredo Altamirano, naciste en 1986
 
 ---
 
-### [Ejercicios 2](##https://github.com/edavot/MBEP-Modulo-3-Practica-1/tree/main/code/Ejercicios-2)
+### [Ejercicios 2](https://github.com/edavot/MBEP-Modulo-3-Practica-1/tree/main/code/Ejercicios-2)
 
 ---
 
